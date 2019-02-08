@@ -30,3 +30,4 @@ http.createServer((request, response) => {
 ~
 ~
 ~
+DB라는  좋은  것을  이용하자 ㅠㅠㅠㅠ
